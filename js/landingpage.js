@@ -20,7 +20,7 @@ $('.owl-carousel').owlCarousel({
     loop:true,
     nav:false,
     dot:true,
-    autoplay: true,
+    autoplay: false,
     slideTransition: 'linear',
     autoplayHoverPause: true,
     responsive:{
